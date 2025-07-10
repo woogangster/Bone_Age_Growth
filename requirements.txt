@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+opencv-python
+numpy
+pillow
+albumentations
+timm
